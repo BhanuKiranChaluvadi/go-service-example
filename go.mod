@@ -28,7 +28,7 @@ require (
 	github.com/powerman/must v0.1.0
 	github.com/powerman/mysqlx v0.3.3
 	github.com/powerman/narada4d v1.7.1
-	github.com/powerman/sensitive v0.0.6
+	github.com/powerman/sensitive v0.0.7
 	github.com/powerman/sqlxx v0.2.0
 	github.com/powerman/structlog v0.7.1
 	github.com/prometheus/client_golang v1.10.0
